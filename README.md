@@ -8,21 +8,23 @@ A Jupyter Notebook benchmarking Polars vs. Pandas on Austin's Real-Time Road Con
 
 1. Clone this repository:
 
-   ````bash
+   ```bash
    git clone https://github.com/ThatOrJohn/polars-pandas-benchmark.git
-   cd polars-pandas-benchmark```
-
-   ````
+   cd polars-pandas-benchmark
+   ```
 
 2. Create a virtual environment
 
-   ````python3 -m venv .venv
-   source .venv/bin/activate```
+   ```
+   python3 -m venv .venv
+   source .venv/bin/activate
+   ```
 
-   ````
 
 3. Install required packages
-   `pip install -r requirements.txt`
+   ```
+   pip install -r requirements.txt
+   ```
 
 ### Step 2: Download the Dataset
 
@@ -36,6 +38,8 @@ Save it as Real-Time_Road_Conditions.csv in the same directory as the notebook.
 
 Start Jupyter Notebook:
 
-`jupyter notebook`
+```
+jupyter notebook
+```
 
 Open benchmark_polars_pandas.ipynb and run the cells.
