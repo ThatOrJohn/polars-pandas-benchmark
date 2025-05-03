@@ -39,7 +39,7 @@ Save it as Real-Time_Road_Conditions.csv in the same directory as the notebook.
 Start Jupyter Notebook:
 
 ```
-jupyter notebook
+jupyter lab
 ```
 
 Open benchmark_polars_pandas.ipynb and run the cells.
