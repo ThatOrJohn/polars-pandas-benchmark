@@ -1,0 +1,10 @@
+Real-Time_Road_Conditions.csv
+
+temp*
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.pyc
+
+*.log
+*.tmp
